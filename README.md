@@ -21,6 +21,27 @@ This repository contains various examples covering basic concepts, file handling
 | `9.py` | **Complex Numbers**: A Class-based approach to add two complex numbers. |
 | `10.py` | **Student Class**: A Class-based approach to manage student details and marks. |
 
+## 🛠️ Setup & Requirements
+
+This project relies on the **Python Standard Library** (e.g., `math`, `datetime`, `os`, `sys`). Therefore, no external packages are strictly required to run these scripts.
+
+However, a `requirements.txt` file is included for standard project structure and future extensibility.
+
+### Installation
+
+1. **Clone the repository**:
+
+    ```bash
+    git clone https://github.com/toxicbishop/Introduction-To-Python.git
+    cd Introduction-To-Python
+    ```
+
+2. **Install requirements** (Optional):
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
 ## 🚀 How to Run
 
 1. Make sure you have Python installed. You can check by running:
