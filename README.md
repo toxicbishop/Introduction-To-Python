@@ -8,17 +8,15 @@ This repository contains various notebooks covering basic concepts, file handlin
 
 | Notebook | Description |
 | :--- | :--- |
-| [`01a.ipynb`](file:///d:/Code/Repo/Introduction-To-Python/01a.ipynb) | **Student Details**: Takes student inputs (Name, USN, Marks) and calculates the percentage. |
-| [`01b.ipynb`](file:///d:/Code/Repo/Introduction-To-Python/01b.ipynb) | **Senior Citizen Check**: Calculates age from date of birth to determine if a person is a senior citizen. |
-| [`02a.ipynb`](file:///d:/Code/Repo/Introduction-To-Python/02a.ipynb) | **Fibonacci Sequence**: Generates the Fibonacci sequence up to a given number `N`. |
-| [`02b.ipynb`](file:///d:/Code/Repo/Introduction-To-Python/02b.ipynb) | **Binomial Coefficient**: Calculates the binomial coefficient (nCr) using a recursive factorial function. |
-| [`3.ipynb`](file:///d:/Code/Repo/Introduction-To-Python/3.ipynb) | **Statistics Calculator**: Calculates Mean, Variance, and Standard Deviation for a list of numbers. |
-| [`4.ipynb`](file:///d:/Code/Repo/Introduction-To-Python/4.ipynb) | **Digit Frequency**: Counts the frequency of each digit in a given multi-digit number. |
-| [`5.ipynb`](file:///d:/Code/Repo/Introduction-To-Python/5.ipynb) | **Word Frequency**: Reads a file (e.g. `sample.txt`) and counts the frequency of each word, displaying the top 11. |
-| [`6.ipynb`](file:///d:/Code/Repo/Introduction-To-Python/6.ipynb) | **File Sorter**: Reads lines from an input file, sorts them alphabetically, and writes them to an output file. |
-| [`7.ipynb`](file:///d:/Code/Repo/Introduction-To-Python/7.ipynb) | **Zip Directory**: Zips the contents of a specified directory into a zip file. |
-| [`8.ipynb`](file:///d:/Code/Repo/Introduction-To-Python/8.ipynb) | **Exception Handling**: Demonstrates error handling (Assertions) during division operations. |
-| [`9.ipynb`](file:///d:/Code/Repo/Introduction-To-Python/9.ipynb) | **Complex Numbers**: A Class-based approach to add two complex numbers. |
+| [`01.ipynb`](file:///d:/Code/Repo/Introduction-To-Python/01.ipynb) | **Student Details & Senior Citizen Check**: Consists of: <br> • **Part A**: Takes student inputs and calculates percentage. <br> • **Part B**: Calculates age to determine senior citizen status. |
+| [`02.ipynb`](file:///d:/Code/Repo/Introduction-To-Python/02.ipynb) | **Fibonacci & Binomial Coefficient**: Consists of: <br> • **Part A**: Generates Fibonacci sequence. <br> • **Part B**: Calculates binomial coefficient (nCr). |
+| [`03.ipynb`](file:///d:/Code/Repo/Introduction-To-Python/03.ipynb) | **Statistics Calculator**: Calculates Mean, Variance, and Standard Deviation for a list of numbers. |
+| [`04.ipynb`](file:///d:/Code/Repo/Introduction-To-Python/04.ipynb) | **Digit Frequency**: Counts the frequency of each digit in a given multi-digit number. |
+| [`05.ipynb`](file:///d:/Code/Repo/Introduction-To-Python/05.ipynb) | **Word Frequency**: Reads a file (e.g., `sample.txt`) and counts the frequency of each word. |
+| [`06.ipynb`](file:///d:/Code/Repo/Introduction-To-Python/06.ipynb) | **File Sorter**: Reads lines from an input file, sorts them alphabetically, and writes them to an output file. |
+| [`07.ipynb`](file:///d:/Code/Repo/Introduction-To-Python/07.ipynb) | **Zip Directory**: Zips the contents of a specified directory into a zip file. |
+| [`08.ipynb`](file:///d:/Code/Repo/Introduction-To-Python/08.ipynb) | **Exception Handling**: Demonstrates error handling (assertions) during division operations. |
+| [`09.ipynb`](file:///d:/Code/Repo/Introduction-To-Python/09.ipynb) | **Complex Numbers**: A Class-based approach to add two complex numbers. |
 | [`10.ipynb`](file:///d:/Code/Repo/Introduction-To-Python/10.ipynb) | **Student Class**: A Class-based approach to manage student details and marks. |
 
 ## 🛠️ Setup & Requirements
@@ -54,7 +52,7 @@ You have multiple options for running these interactive notebooks:
     ```bash
     jupyter notebook
     ```
-2. A browser tab will open. Navigate to any notebook (e.g., `01a.ipynb`) and run the cells!
+2. A browser tab will open. Navigate to any notebook (e.g., `01.ipynb`) and run the cells!
 
 ### Option 3: Google Colab
 1. Go to [Google Colab](https://colab.research.google.com/).
